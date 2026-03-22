@@ -1,0 +1,14 @@
+# Variables de entorno — NUNCA subir al repositorio
+.env
+
+# Entorno virtual de Poetry (si se configura dentro del proyecto)
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Distribución / empaquetado
+dist/
+*.egg-info/
