@@ -12,3 +12,10 @@ __pycache__/
 # Distribución / empaquetado
 dist/
 *.egg-info/
+
+# Índice vectorial de ChromaDB (generado automáticamente al ejecutar el agente)
+chroma_db/
+
+# Caché de modelos de HuggingFace (se descargan automáticamente la primera vez)
+.cache/
+
