@@ -1,4 +1,4 @@
-# basic-agent
+# openai-agent-sdk-practice
 
 Agente de IA minimalista construido con el **OpenAI Agents SDK** que utiliza **Ollama** como backend local de LLM. Al ejecutarlo, el agente recibe como instrucción contar un chiste y responde en la terminal.
 
